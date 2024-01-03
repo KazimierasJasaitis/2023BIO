@@ -1,0 +1,1 @@
+print("nzn sita tingiu")

@@ -1,0 +1,10 @@
+AG---CAG---C
+A-AG-CA-AG-C
+AG-AA-AG-AA-
+--AAAC--AAAC
+AG---CAG---C
+AG---CAG---C
+A-AG-CA-AG-C
+AG-AA-AG-AA-
+--AAAC--AAAC
+AG---CAG---C
